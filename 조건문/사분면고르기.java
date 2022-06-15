@@ -1,4 +1,3 @@
-package 조건문;
 import java.util.*;
 
 public class 사분면고르기 {
@@ -18,7 +17,7 @@ public class 사분면고르기 {
         if(x < 0){
             if (y > 0){
                 System.out.println("2");
-            } 9else {
+            } else {
                 System.out.println("3");
         }
         }
