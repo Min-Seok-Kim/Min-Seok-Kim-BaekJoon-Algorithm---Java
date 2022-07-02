@@ -1,3 +1,4 @@
+package 조건문;
 import java.util.Scanner;
 
 public class 시험성적 {

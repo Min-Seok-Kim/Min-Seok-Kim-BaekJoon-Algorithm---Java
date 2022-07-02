@@ -1,3 +1,4 @@
+package 조건문;
 import java.util.*;
 public class 주사위세개 {
     public static void main(String[] args) {

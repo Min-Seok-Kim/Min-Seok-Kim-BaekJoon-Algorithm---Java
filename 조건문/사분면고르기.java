@@ -1,3 +1,4 @@
+package 조건문;
 import java.util.*;
 
 public class 사분면고르기 {
